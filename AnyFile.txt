@@ -1,2 +1,3 @@
 It's a wonderful life.
 This change is made in github.
+Another change made.
